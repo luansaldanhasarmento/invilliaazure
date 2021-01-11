@@ -1,6 +1,9 @@
 # invillia
 Challenge Invillia
 
+- ###Para rodar local, configurar um banco com nome GameInvilliaAzure ou algum da escolha de vocês(caso sim, mudar nos arquivos appsettings.json e appsetting.Development.json);
+	- CREATE DATABASE GameInvilliaAzure
+	
 -1) executar rota -> [GET]v1/welcome -> isso vai criar um usuário na base com nome "invillia" e senha "invillia";
 
 -2) Necessário realizar a autenticação:
